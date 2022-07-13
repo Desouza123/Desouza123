@@ -12,6 +12,7 @@ Trabalhei por muitos anos na área administrativa e vi na tecnologia uma oportun
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## 👥 Connect With Me
@@ -25,6 +26,7 @@ Trabalhei por muitos anos na área administrativa e vi na tecnologia uma oportun
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
 </p>
 
 ## 🏆 GitHub Trophies
@@ -33,11 +35,5 @@ Trabalhei por muitos anos na área administrativa e vi na tecnologia uma oportun
 </p>
 
 ## 📊 Github Status
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=Deivosn%20Souza&show_icons=true"><p>
-
-<p><img src="https://metrics.lecoq.io/Deivosn%20Souza"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Deivosn%20Souza"><p>
 
 <p><img src="https://visitcount.itsvg.in/api?id=Deivosn%20Souza&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
