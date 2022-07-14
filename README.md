@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://https://www.linkedin.com/in/deivison-souza/"><i>Deivison de Souza</i></a> 😃️</h1>
-  <p align="center">Estudo tecnologia da informação  na <a href="https://estacio.br//"><i>estacio</i></a> 
+  <p align="center">Estudo tecnologia da informação na <a href="https://estacio.br//"><i>estacio</i></a> 
   </a><br>
    vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
 </div>
